@@ -69,8 +69,8 @@ The pipeline follows a modular, reproducible workflow designed for modern NLP ta
 
 ```bash
 # Clone the repository
-git clone https://github.com/piotrjsk/cnn-facial-emotion-recognition.git
-cd cnn-facial-emotion-recognition
+git clone https://github.com/piotrjsk/nlp-text-classification-neural-networks.git
+cd nlp-text-classification-neural-networks
 
 # Install dependencies
 pip install -r requirements.txt
